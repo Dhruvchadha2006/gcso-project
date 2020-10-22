@@ -1,2 +1,2 @@
-# gcso-project
-gcso project
+# GCSO
+GCSO
